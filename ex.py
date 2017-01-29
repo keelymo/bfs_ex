@@ -1,4 +1,5 @@
-#example edit
+#info from: https://www.youtube.com/watch?v=vzjg3T72tRs
+#reference: https://github.com/joeyajames/Python/blob/master/bfs.py
 class Vertex:
 	def __init__(self, n):
 		self.name = n
